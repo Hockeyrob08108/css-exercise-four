@@ -5,16 +5,17 @@
 
 body {
   background-color: #fff;
-  padding-left: 500px;
+  /*padding-left: 500px;*/
+  width: 575px;
   font-size: 10px;
-  margin: 2%;
+  margin: 8px;
   display: block;
 }
 
 .container {
   /*margin: 20px;*/
-  height:1230.5px;
-  width: 400px;
+  height:1210px;
+  width: 350px;
   background-color: #ECECEC;
 
 }
@@ -22,7 +23,7 @@ body {
 h1 {
   font-family: avenir;
   padding: 7% 0;
-  font-size: 1.5em;
+  font-size: 1.4em;
   font-weight: bold;
   color: #666666;
   letter-spacing: 2px;
@@ -32,14 +33,15 @@ h1 {
 }
 
 .preview {
-  padding: 2% 75% 5% 0;
+  /*padding: 2% 75% 5% 0;*/
+  padding: 2% 25% 2% 0;
   height:250px;
-  width: 400px;
+  width: 350px;
   background-color: #ECECEC;
 }
 
 h2 {
-  padding: 10% 0 0 25%;
+  padding: 10% 0 0 15%;
   font-size: 2em;
   text-align: left;
 
@@ -47,31 +49,31 @@ h2 {
 
 .baku{
   margin: 0 0 10% 0;
-  padding: 2% 25% 5% 0;
+  /*padding: 2% 25% 5% 0;*/
   background: url(../images/baku.jpg) no-repeat center;
-  background-size: 283px 283px;
+  background-size: 350px 250px;
 }
 
 .london {
   margin: 10% 0;
-  padding: 2% 25% 5% 0;
+  /*padding: 2% 25% 5% 0;*/
   background: url(../images/london.png) no-repeat center;
-  background-size: 283px 283px;
+  background-size: 350px 250px;
 
 }
 
 .madrid {
   margin: 10% 0;
-  padding: 2% 25% 5% 0;
+  /*padding: 2% 25% 5% 0;*/
   background: url(../images/madrid.jpg) no-repeat center;
-  background-size: 283px 283px;
+  background-size: 350px 250px;
 
 }
 
 .rome {
   margin: 10% 0;
-  padding: 2% 25% 5% 0;
+  /*padding: 2% 25% 5% 0;*/
   background: url(../images/rome.jpg) no-repeat center;
-  background-size: 283px 283px;
+  background-size: 350px 250px;
 
 }
